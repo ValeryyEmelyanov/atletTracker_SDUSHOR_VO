@@ -32,3 +32,8 @@ build/
 .vscode/
 
 /.idea
+
+target
+out
+.idea/
+.DS_Store
