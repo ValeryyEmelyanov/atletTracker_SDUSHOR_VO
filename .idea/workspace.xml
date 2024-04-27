@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b629d5c2-fa35-48bc-a16f-353d8a9041ba" name="Changes" comment="" />
+    <list default="true" id="98a95d85-b595-4979-b8c3-7df36d298c99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/java/com/atlettracker/atlettracker_sdushor_vo/AtletTrackerSdushorVoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/java/com/atlettracker/atlettracker_sdushor_vo/controllers/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/java/com/atlettracker/atlettracker_sdushor_vo/models/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/java/com/atlettracker/atlettracker_sdushor_vo/repository/InMemoryStudentDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/java/com/atlettracker/atlettracker_sdushor_vo/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/java/com/atlettracker/atlettracker_sdushor_vo/services/Impl/InMemoryStudentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/java/com/atlettracker/atlettracker_sdushor_vo/services/Impl/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/java/com/atlettracker/atlettracker_sdushor_vo/services/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atletTracker_SDUSHOR_VO/src/test/java/com/atlettracker/atlettracker_sdushor_vo/AtletTrackerSdushorVoApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,151 +38,157 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2e9ZHCuiU4wJSSJpOPYWk3wMzfj" />
+  <component name="ProjectId" id="2fYcvsLZDW0PRZcwqGdC0eskmyt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TODO_SCOPE": "All Places",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/atletTracker_SDUSHOR_VO",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.273906",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ],
+    "DatabaseDriversLRU": [
+      "mysql",
+      "postgresql"
+    ]
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="orders" />
-      <recent name="rbac.rolePermissions" />
-      <recent name="rbac.domain" />
-      <recent name="rolsForPerson.domain" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="rolsForPerson" />
-    </key>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Spring Boot.AtletTrackerSdushorVoApplication">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="atletTracker_SDUSHOR_VO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="essences.Person" />
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="atletTracker_SDUSHOR_VO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="essences.roles.ListOfRole" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonsData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="essences.PersonsData" />
-      <module name="atletTracker_SDUSHOR_VO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="essences.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="AtletTrackerSdushorVoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-security-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atlettracker.atlettracker_sdushor_vo.AtletTrackerSdushorVoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaveStudentOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vallidators.SaveStudentOrder" />
-      <module name="atletTracker_SDUSHOR_VO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vallidators.answers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="AtletTrackerSdushorVoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-security-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atlettracker.atlettracker_sdushor_vo.AtletTrackerSdushorVoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentOrderValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="orders.StudentOrderValidator" />
-      <module name="atletTracker_SDUSHOR_VO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vallidators.answers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PersonsData" />
-        <item itemvalue="Application.StudentOrderValidator" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.SaveStudentOrder" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b629d5c2-fa35-48bc-a16f-353d8a9041ba" name="Changes" comment="" />
-      <created>1711318665736</created>
+      <changelist id="98a95d85-b595-4979-b8c3-7df36d298c99" name="Changes" comment="" />
+      <created>1713981691757</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1711318665736</updated>
-      <workItem from="1711318667357" duration="2450000" />
-      <workItem from="1711407579317" duration="5067000" />
-      <workItem from="1711493368190" duration="425000" />
-      <workItem from="1712172681364" duration="7368000" />
-      <workItem from="1712269811722" duration="5081000" />
-      <workItem from="1712438569638" duration="6476000" />
-      <workItem from="1712487600935" duration="3405000" />
-      <workItem from="1712511425275" duration="16865000" />
-      <workItem from="1712606220269" duration="6779000" />
-      <workItem from="1712698184167" duration="3639000" />
-      <workItem from="1712777141476" duration="4378000" />
-      <workItem from="1713042696314" duration="931000" />
-      <workItem from="1713463019395" duration="601000" />
-      <workItem from="1713526298313" duration="16523000" />
-      <workItem from="1713692979767" duration="14753000" />
-      <workItem from="1713980707064" duration="984000" />
+      <updated>1713981691757</updated>
+      <workItem from="1713981692745" duration="23076000" />
+      <workItem from="1714186039618" duration="84000" />
     </task>
+    <task id="LOCAL-00001" summary="Update 001">
+      <created>1714184974826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714184974826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update 001">
+      <created>1714185661448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714185661448</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update 002 Add .idea to ignore">
+      <created>1714185776696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714185776696</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Update 001" />
+    <MESSAGE value="Update 002 Add .idea to ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 002 Add .idea to ignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.postgresql.util.PSQLException" package="org.postgresql.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
