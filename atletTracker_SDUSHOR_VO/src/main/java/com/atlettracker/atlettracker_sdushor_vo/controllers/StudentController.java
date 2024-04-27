@@ -13,15 +13,18 @@ import java.util.List;
 public class StudentController {
     private StudentService service;
 
+
     @GetMapping("/welcome")
     public String welcome(){
         return "Welcome to the unprotected page";
     }
 
+
     @GetMapping("/all_student")
     public List<Student> findAllStudent(){
         return service.findAllStudent();
     }
+
 
     @PostMapping("save_student")
     public String saveStudent(@RequestBody Student student){
@@ -29,15 +32,18 @@ public class StudentController {
         return "Student successfully saved";
     }
 
+
     @GetMapping("/{email}")
     public Student findByEmail (@PathVariable("email") String email){
         return service.findByEmail(email);
     }
 
+
     @PutMapping("/update_student")
     public Student updateStudent(@RequestBody Student student){
         return service.updateStudent(student);
     }
+
 
     @DeleteMapping("/delete_student/{email}")
     public void deleteStudent(@PathVariable String email){
