@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98a95d85-b595-4979-b8c3-7df36d298c99" name="Changes" comment="" />
+    <list default="true" id="98a95d85-b595-4979-b8c3-7df36d298c99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +59,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "a4a713330d064bd6d6038ac38a505a6c",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -118,7 +121,8 @@
       <option name="presentableId" value="Default" />
       <updated>1713981691757</updated>
       <workItem from="1713981692745" duration="23076000" />
-      <workItem from="1714186039618" duration="1013000" />
+      <workItem from="1714186039618" duration="1391000" />
+      <workItem from="1714187446474" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="Update 001">
       <created>1714184974826</created>
