@@ -40,4 +40,5 @@ out
 mvnw.cmd
 mvnw
 .mvn/
+.mvn/wrapper
 
