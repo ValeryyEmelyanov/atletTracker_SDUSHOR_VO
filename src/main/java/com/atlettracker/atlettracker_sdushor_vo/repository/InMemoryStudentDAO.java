@@ -2,7 +2,6 @@ package com.atlettracker.atlettracker_sdushor_vo.repository;
 
 import com.atlettracker.atlettracker_sdushor_vo.models.Student;
 import org.springframework.stereotype.Repository;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.IntStream;
@@ -11,17 +10,14 @@ import java.util.stream.IntStream;
 public class InMemoryStudentDAO {
     private final List<Student> STUDENTS = new ArrayList<>();
 
-
     public List<Student> findAllStudent() {
         return STUDENTS;
     }
-
 
     public Student saveStudent(Student student) {
         STUDENTS.add(student);
         return student;
     }
-
 
     public Student findByEmail(String email) {
         return STUDENTS.stream()
@@ -29,7 +25,6 @@ public class InMemoryStudentDAO {
                 .findFirst()
                 .orElse(null);
     }
-
 
     public Student updateStudent(Student student) {
         var studentIndex = IntStream.range(0, STUDENTS.size())

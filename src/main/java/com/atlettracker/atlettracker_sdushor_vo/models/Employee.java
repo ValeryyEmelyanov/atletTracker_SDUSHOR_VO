@@ -7,14 +7,15 @@ import java.time.Period;
 
 @Data
 @Entity
-@Table(name="students")
-public class Student {
+@Table(name="employee")
+public class Employee {
     @Id
     @GeneratedValue
     private Long id;
     private String firstName;
     private String lastName;
     private LocalDate dateOfBirth;
+    private String workingPosition;
     @Column(unique = true)
     private String email;
     @Transient
@@ -23,5 +24,5 @@ public class Student {
     public int getAge() {
         return Period.between(dateOfBirth, LocalDate.now()).getYears();
     }
-}
 
+}

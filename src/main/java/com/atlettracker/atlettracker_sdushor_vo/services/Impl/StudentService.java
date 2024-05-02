@@ -5,7 +5,6 @@ import com.atlettracker.atlettracker_sdushor_vo.repository.StudentRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 
 @Service
