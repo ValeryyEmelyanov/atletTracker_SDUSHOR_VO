@@ -25,6 +25,26 @@ public class StudentController {
         return service.findAllStudent();
     }
 
+    @GetMapping("/{email}")
+    public Student findByEmail (@PathVariable("email") String email){
+        return service.findByEmail(email);
+    }
+
+    @GetMapping("/hello")
+    public String hello(){
+        return "<h2> Hey, everyone! </h2>";
+    }
+
+    @GetMapping("/user")
+    public String user(){
+        return "<h2> Hey, user! </h2>";
+    }
+
+    @GetMapping("/admin")
+    public String admin(){
+        return "<h2> Hey, admin! </h2>";
+    }
+
 
     @PostMapping("save_student")
     public String saveStudent(@RequestBody Student student){
@@ -33,10 +53,6 @@ public class StudentController {
     }
 
 
-    @GetMapping("/{email}")
-    public Student findByEmail (@PathVariable("email") String email){
-        return service.findByEmail(email);
-    }
 
 
     @PutMapping("/update_student")
