@@ -10,7 +10,7 @@ import java.time.Period;
 @Table(name="students")
 public class Student {
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String firstName;
     private String lastName;
@@ -24,4 +24,3 @@ public class Student {
         return Period.between(dateOfBirth, LocalDate.now()).getYears();
     }
 }
-

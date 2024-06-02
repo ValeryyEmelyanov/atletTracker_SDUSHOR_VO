@@ -1,16 +1,16 @@
-package com.atlettracker.atlettracker_sdushor_vo.services.Impl;
+package com.atlettracker.atlettracker_sdushor_vo.services;
 
 import com.atlettracker.atlettracker_sdushor_vo.models.Student;
 import com.atlettracker.atlettracker_sdushor_vo.repository.StudentRepository;
+import com.atlettracker.atlettracker_sdushor_vo.services.StudentService;
 import lombok.AllArgsConstructor;
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
+
 import java.util.List;
 
 @Service
 @AllArgsConstructor
-@Primary
-public class StudentService implements com.atlettracker.atlettracker_sdushor_vo.services.StudentService {
+public class StudentServiceImpl implements StudentService {
 
     private final StudentRepository repository;
 
